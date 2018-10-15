@@ -73,7 +73,8 @@
     "opener": "~1.4.0",
     "optimist": "0.6.x",
     "portfinder": "^1.0.13",
-    "union": "~0.4.3"
+    "union": "~0.4.3",
+    "hawk": "2.3.1"
   },
   "devDependencies": {
     "common-style": "^3.0.0",
