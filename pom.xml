@@ -7,9 +7,6 @@
   <version>1.4-SNAPSHOT</version>
   <name>test-app</name>
 
-  <!-- comment -->
-  <!-- comment -->
-
   <dependencies>
     <dependency>
       <groupId>org.apache.struts</groupId>

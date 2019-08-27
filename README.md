@@ -2,6 +2,4 @@
 
 # test-app
 
-## a change
-
-### version bump
+This is a test
